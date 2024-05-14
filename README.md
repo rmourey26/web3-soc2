@@ -1,4 +1,4 @@
-# Demo Supabase Auth
+# Web3 Soc2 Moralis & Supabase Auth
 
 ## Run locally
 
